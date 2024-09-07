@@ -7,7 +7,7 @@ End to end code for the spam classifier project
 
 ## 1. Introduction
 
-In this project, we developed a spam classifier using the Naive Bayes algorithm and deployed it as a web application. The objective was to create an effective model for identifying spam emails, which can be integrated into email systems to filter out unwanted messages and enhance user experience.
+In this project, we developed a spam classifier using the Naive Bayes algorithm and deployed it as a web application. The objective was to create an effective model for identifying spam texts, which can be integrated into email systems to filter out unwanted messages and enhance user experience.
 
 ## 2. Objectives
 
